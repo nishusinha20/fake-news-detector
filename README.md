@@ -35,7 +35,7 @@ An automated pipeline for detecting fake news using BERT and Airflow. This proje
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fake-news-detector.git
+git clone https://github.com/nishusinha20/fake-news-detector.git
 cd fake-news-detector
 ```
 
