@@ -59,4 +59,9 @@ data/db/
 airflow.cfg
 airflow.db
 webserver_config.py
-airflow-webserver.pid 
+airflow-webserver.pid
+
+# Large data files
+*.csv
+data/
+datasets/ 
